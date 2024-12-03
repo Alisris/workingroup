@@ -1,0 +1,7 @@
+document.addEventListener("DOMContentLoaded", function(){ window.addEventListener("DOMContentLoaded", function(){
+	UAGBForms.init( {"block_id":"30bfd676","reCaptchaEnable":false,"reCaptchaType":"v2","reCaptchaSiteKeyV2":"","reCaptchaSecretKeyV2":"","reCaptchaSiteKeyV3":"","reCaptchaSecretKeyV3":"","afterSubmitToEmail":"contacto@workinggroup.cl","afterSubmitCcEmail":"paulinagonzalez@workinggroup.cl","afterSubmitBccEmail":"angelourbina@gmail.com","afterSubmitEmailSubject":"Env\u00edo de solicitud ","sendAfterSubmitEmail":true,"confirmationType":"message","hidereCaptchaBatch":false,"captchaMessage":"Por favor, completa el captcha de arriba.","confirmationUrl":""}, '.uagb-block-30bfd676', 493 );
+});
+window.addEventListener("DOMContentLoaded", function(){
+	UAGBForms.init( {"block_id":"ce20d720","reCaptchaEnable":false,"reCaptchaType":"v2","reCaptchaSiteKeyV2":"","reCaptchaSecretKeyV2":"","reCaptchaSiteKeyV3":"","reCaptchaSecretKeyV3":"","afterSubmitToEmail":false,"afterSubmitCcEmail":"angaurnz@gmail.com","afterSubmitBccEmail":"paulinagonzalezbravo85@gmail.com@gmail.com","afterSubmitEmailSubject":"","sendAfterSubmitEmail":true,"confirmationType":"message","hidereCaptchaBatch":false,"captchaMessage":"Por favor, completa el captcha de arriba.","confirmationUrl":""}, '.uagb-block-ce20d720', 493 );
+});
+ });
